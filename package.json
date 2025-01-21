@@ -1,0 +1,7 @@
+{
+  "homepage": "https://yourusername.github.io/ai-agent",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+} 
